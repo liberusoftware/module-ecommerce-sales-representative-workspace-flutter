@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-sales-representative-workspace-flutter",
+  "capabilityKey": "planned:ecommerce:sales-representative-workspace",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_sales_representative_workspace_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/sales-representative-workspace.md",
+  "presentationPlan": "projects/ecommerce/flutter/sales-representative-workspace.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
